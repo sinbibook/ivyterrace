@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-05T12:24:53.561820252Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-18T04:55:36.815026942Z",
     "templateType": "trip_b",
     "propertyId": "ba744c43-251b-4c16-9d5e-579eb8e26158",
     "homepageId": "01a1a51b-f40a-75bf-82da-de9785c0d0e7"
@@ -22,7 +22,7 @@
     "checkin": "16:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 16시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n※ 301호는 테라스 이용이 불가하오니, 예약 시 참고 부탁드립니다.",
-    "usageGuide": "※ 301호는 테라스 이용이 불가하오니, 예약 시 참고 부탁드립니다.\n※ 당일 입실 예약 불가\n※ 전 객실 취사 불가\n※ 전 객실 바베큐 불가\n※ 전 객실 애완동물 출입 불가\n※ 전 객실 정수기, 비데 설치\n\n[입퇴실안내]\n- 입실: 16시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n※ 301호는 테라스 이용이 불가하오니, 예약 시 참고 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 10,000원, 아동 1인 무료, 유아 무료\n(1박기준/현장결제)\n※ 전 객실 최대 2명까지 입실 가능하며, 초과입실은 불가합니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘리베이터 미보유\n- 넷플릭스 이용 가능\n- 넷플릭스 개인 계정 불필요\n- OTT 이용 가능\n- 중문색달해수욕장, 차량 15분\n- 차량 약 2분거리에 이마트 및 편의점 위치\n\n[주차장]\n- 전기차 충전기 이용 가능\n※ 차로 5분 거리 월드컵경기장, 여유 많음\n\n[교통편]\n- 중문입구에서 좌회전하여 일주서로르 따라 7.29km 이동합니다. 이후 우회전하여 일주서로 43번길을 따라 492m이동하고, 우회전하여 월드컵로를 따라 547m 이동한 후에 좌화전하여 법환로를 따라 215m 이동한후 좌측 11시 방향으로 법환상로를 따라 274m 이동하면 아이비테라스 도착입니다.\n- 1. '순진한가' 또는 서귀포시 법환상로 65 (법환동 1074-3번지)를 입력\n- 2. 제주 공항에서 600번 공항버스 탑승후 월드컵경기장(이마트)에서 하차 택시 탑승",
+    "usageGuide": "[공지사항]\n※ 301호는 테라스 이용이 불가하오니, 예약 시 참고 부탁드립니다.\n※ 당일 입실 예약 불가\n※ 전 객실 취사 불가\n※ 전 객실 바베큐 불가\n※ 전 객실 애완동물 출입 불가\n※ 전 객실 정수기, 비데 설치\n\n[입퇴실안내]\n- 입실: 16시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 저녁 6시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n※ 301호는 테라스 이용이 불가하오니, 예약 시 참고 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 전 객실 최대 2명까지 입실 가능하며, 초과입실은 불가합니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘리베이터 미보유\n- 넷플릭스 이용 가능\n- 넷플릭스 개인 계정 불필요\n- OTT 이용 가능\n- 중문색달해수욕장, 차량 15분\n- 차량 약 2분거리에 이마트 및 편의점 위치\n\n[주차장]\n- 전기차 충전기 이용 가능\n※ 차로 5분 거리 월드컵경기장, 여유 많음\n\n[교통편]\n- 중문입구에서 좌회전하여 일주서로르 따라 7.29km 이동합니다. 이후 우회전하여 일주서로 43번길을 따라 492m이동하고, 우회전하여 월드컵로를 따라 547m 이동한 후에 좌화전하여 법환로를 따라 215m 이동한후 좌측 11시 방향으로 법환상로를 따라 274m 이동하면 아이비테라스 도착입니다.\n- 1. '순진한가' 또는 서귀포시 법환상로 65 (법환동 1074-3번지)를 입력\n- 2. 제주 공항에서 600번 공항버스 탑승후 월드컵경기장(이마트)에서 하차 택시 탑승",
     "reservationGuide": "※ 301호는 테라스 이용이 불가하오니, 예약 시 참고 부탁드립니다.\n※ 당일 입실 예약 불가\n※ 전 객실 취사 불가\n※ 전 객실 바베큐 불가\n※ 전 객실 애완동물 출입 불가\n※ 전 객실 정수기, 비데 설치",
     "province": "도/시",
     "city": "시/군/구",
@@ -194,7 +194,7 @@
           {
             "id": "e4efe12d-a39d-4156-86a9-66e12c0f72fa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/SvWJi8yEARZt.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -204,7 +204,7 @@
           {
             "id": "971373a4-fd13-4705-959a-fb0a7903cde6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/umgk67OdeTSo.jpg",
-            "sortOrder": 0,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -212,7 +212,7 @@
           {
             "id": "cd23008a-7359-4da7-9f6c-1ccab267d0ac",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/GUKIsm7Hh9Mo.jpg",
-            "sortOrder": 1,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -220,7 +220,7 @@
           {
             "id": "f3ab6c63-b60f-4153-a8aa-478ae85e1f75",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/5FcChQimbMIz.jpg",
-            "sortOrder": 2,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -228,7 +228,7 @@
           {
             "id": "af42405a-ea5c-4c03-bebc-a37d84ef15b5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/p1gfQeRoCkz7.jpg",
-            "sortOrder": 3,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -236,7 +236,7 @@
           {
             "id": "aafbf259-8e4a-484b-a384-1c892b4f88f8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/409nK6LSD5mH.jpg",
-            "sortOrder": 4,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -244,7 +244,7 @@
           {
             "id": "8246d2d8-8f7d-44d5-8edd-c4101ceb97aa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/E7BRJlUSOhqz.jpg",
-            "sortOrder": 5,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -252,7 +252,7 @@
           {
             "id": "4d321b48-2088-4fba-b725-4cf136569ff0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/27/gVhPl1zUHG0C.jpg",
-            "sortOrder": 6,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1907,7 +1907,7 @@
             {
               "id": "01a1a557-6275-7df2-87f2-1424f58956b7",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a51b-f40a-75bf-82da-de9785c0d0e7/roomtype_thumbnail/1793775318248-znnyzm9bkw.jpg",
-              "sortOrder": 2,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true,
               "blockId": "906ccf55-01d0-46a1-bb1a-db33199cf0e8",
@@ -2059,7 +2059,7 @@
             {
               "id": "01a1a557-6511-752d-94ec-8b4fb7bd0610",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a51b-f40a-75bf-82da-de9785c0d0e7/roomtype_thumbnail/1793775318322-vvfpzap9y2.jpg",
-              "sortOrder": 3,
+              "sortOrder": 2,
               "description": "",
               "isSelected": true,
               "blockId": "67a5e157-d86f-4a62-9800-28061c5aec49",
@@ -2211,7 +2211,7 @@
             {
               "id": "01a1a51c-2e17-77ba-9889-3ea44f2fd916",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1a51b-f40a-75bf-82da-de9785c0d0e7/roomtype_thumbnail/1793771445108-a7rs3t97ts.webp",
-              "sortOrder": 1,
+              "sortOrder": 3,
               "description": "",
               "isSelected": true,
               "blockId": "4b2ece8f-41e7-4c60-a6e7-742532cd1362",
@@ -2519,7 +2519,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
